@@ -3,9 +3,9 @@
 .sz_content{padding: 0.65rem 0.25rem;}
 .sz_vicoe{line-height: 0.9rem;font-size: 0.5rem}
 .sz_vicoe2{font-weight: bold;margin-top: 0.25rem}
-
-
-
+.sz_imglist li{float: left;width: 50%;}
+.sz_imglist li img{width: 6.225rem;height: 6.175rem}
+.sz_imglist span{display: block;text-align: center;}
 
 
 
