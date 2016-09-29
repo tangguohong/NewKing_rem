@@ -1,3 +1,5 @@
+/*ZCC*/
+/*index start*/
 body,ul,p,h1,h2,h3,h4,dl,dd{margin:0;padding: 0;}
 body{font:20px "微软雅黑";}
 a{text-decoration: none;}
@@ -57,3 +59,36 @@ ul{list-style: none;}
 #index .btn span{position: absolute;top:0.625rem;left:2.0rem;width:1.1rem;height: 1.1rem;border:0.05rem solid #fff;border-radius:50%;background:no-repeat center;background-size: 0.55rem 0.55rem;}
 #index .btn .bg1{background-image: url(../images/index_44.png);}
 #index .btn .bg2{background-image: url(../images/index_47.png);}
+/*index end*/
+/*indoubt start*/
+#doubt .title{height: 1.95rem;margin:0 0.5rem;line-height:1.95rem;font-size: 0.6rem;color:#fc4f0b;text-align: center;border-bottom: 1px solid #EFEFEF;}
+#doubt .doubt-wrap{padding:0.775rem 0.5rem 1.15rem;}
+#doubt .doubt-list{padding: 0.45rem 0.675rem 0.6rem 0;border:1px solid #E5E5E5;}
+#doubt .doubt-list+.doubt-list{margin-top: 1.0rem;}
+#doubt dt,#doubt dd{padding-left: 1.2rem;line-height:0.95rem;font-size: 0.5rem;background: no-repeat 0.2rem 0.15rem;background-size: 0.7rem 0.7rem;text-align: justify;}
+#doubt dt{font-weight:bold;color:#fc4f0b;background-image: url(../images/23_03.jpg);}
+#doubt dd{color: #666;background-image: url(../images/20_06.jpg);}
+#doubt dd a{color:#428adc;}
+/*indoubt end*/
+/*knowmw start*/
+#knowme .wrap{width:14.925rem;margin:0 auto;}
+#knowme .title{height:1.975rem;line-height: 1.975rem;border-bottom:1px solid #F3F3F3;text-align:center;color:#fc4f0b;font-size: 0.6rem;}
+#knowme .text{padding-bottom: 0.925rem;}
+#knowme .text p{margin-top:0.2rem;line-height: 0.9rem;color:#666;font-size:0.5rem;}
+#knowme .news{border-top: 0.35rem solid #EBEBEB;}
+#knowme .news-con{font-size:0;}
+#knowme .news-con img{width: 100%;}
+#knowme .hot{border-top: 0.575rem solid #EBEBEB;}
+#knowme .subtitle{margin-top:0.375rem;margin-bottom:0.5rem;font:normal 0.5rem/1.1rem "微软雅黑";color:#666;}
+#knowme .hot-text{text-align: center;line-height: 1.2rem;font-size: 0.8rem;color:#666;}
+#knowme .hot-list{padding-top: 0.7rem;padding-bottom: 0.825rem;}
+#knowme .hot-list li{float: left;width:7.2rem;margin-bottom: 0.975rem;font-size:0;}
+#knowme .hot-list li:nth-of-type(even){margin-left: 0.4rem;}
+#knowme .hot-list li:nth-of-type(7),#knowme .hot-list li:nth-of-type(8){margin-bottom: 0;}
+#knowme .hot-list li img{width:100%;}
+#knowme .hot-list li span{display: table-cell;width:7.325rem;height:2.35rem;background-color: #eee;font-size:0.5rem;color:#666;text-align: center;vertical-align: middle;}
+
+
+
+
+/*knowmw end*/
