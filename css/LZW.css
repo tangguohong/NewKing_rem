@@ -1,0 +1,24 @@
+.LZW h2{color: #fc4f0b;font-size: 0.6rem;text-align: center;padding:0.75rem 0.25rem 0.5rem;border-bottom: 0.025rem solid #efefef;}
+.LZW .di-tu img{margin-top: 0.5rem;width: 15.0rem;height: 10.7rem;}
+.LZW .di-tu p{font-size: 0.475rem;text-align: center;padding: 0.5rem 0;}
+.LZW .list h2{font-size: 0.45rem;text-align: left;border:0;padding-left: 0;}
+.LZW .list{margin-top: 0.25rem;line-height: 0.9rem;}
+.LZW .list dl{border: 0.025rem solid #efefef;padding: 0.625rem;margin-bottom: 0.625rem;}
+.LZW .list dt{font-size: 0.6rem;}
+.LZW .list dd{font-size: 0.5rem;}
+.LZW .list .m-t{margin-top: 0.25rem;}
+.LZW .top{background-color: #fff8f5;border: 0.025rem solid #ffdfd3;}
+.LZW .top dl{text-align: center;color: #fc4f0b;height: 4.0rem;border-bottom: 0.025rem solid #ffdfd3;}
+.LZW .top dt{font-size: 1.075rem;font-weight: bold;padding: 1rem 0 0.25rem 0;}
+.LZW .top dd,.LZW .top p,.LZW .center .tong-xue{font-size: 0.5rem;}
+.LZW .top p,.LZW .center .tong-xue,.LZW .center dd{line-height: 0.9rem;}
+.LZW .top .top-neirong{padding: 0.75rem 0;}
+.LZW .center{border-top: 0.525rem solid #ebebeb;}
+.LZW .center .m-b{margin-bottom: 0.8rem;}
+.LZW .center dl{margin-bottom: 0.625rem;width: 6.2rem;font-size: 0.5rem;border: 0.025rem solid #efefef;padding: 0.5rem 0.375rem;}
+.LZW .center dt{text-align: center;font-weight: bold;line-height: 1.25rem;}
+.LZW .center img{width: 3.7rem;height: 3.7rem;}
+.LZW .center dd{line-height: 0.9rem;}
+.LZW .center .tong-xue span{color: #fc4f0b;font-weight: bold;}
+.LZW .center .tong-xue{padding: 1.0rem 0;border-bottom: 0.025rem dashed #e7e7e7;}
+.LZW .center .bor-0{border: 0;}
